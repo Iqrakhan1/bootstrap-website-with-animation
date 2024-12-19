@@ -66,10 +66,10 @@ body {
 .inner{
   overflow: hidden;
 }
-.inner img{
+.inner {
   transition-duration: all 2.5s ease;
 }
-.inner:hover img{
+.inner:hover {
   transform: scale(1.5);
 }
 .submitinfo{
